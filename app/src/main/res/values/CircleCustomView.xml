@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleCustomView">
+        //colors
+        <attr name= "BackLayerCircleColor" format = "color"/>
+        <attr name= "MiddleLayerCircleColor" format = "color"/>
+        <attr name= "FrontLayerCircleColor" format = "color"/>
+        <attr name= "ProgressCircleColor" format = "color"/>
+        <attr name= "ThickLineColor" format = "color"/>
+        <attr name= "ThinLineColor" format = "color"/>
+
+        <attr name= "enabled" format = "boolean"/>
+        <attr name= "BackLayerCircleDiameter" format = "dimension"/>
+
+    </declare-styleable>
+</resources>
